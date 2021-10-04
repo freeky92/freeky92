@@ -7,7 +7,7 @@ Java developer.
 
 I'm currently studying hard Android Java / Kotlin & looking for job offers.
 
-📩   Contact me [ ![linkedin](res/linkedin.png) ][1]  
+📩   Contact me [ ![](res/LinkedIn_Logo_2013.svg.png) ][1]  
 ⚔️Challenge me at [ ![codewars](res/codewars.png) ][2]
 
 ### I'm waiting for your offers.
@@ -16,4 +16,3 @@ I'm currently studying hard Android Java / Kotlin & looking for job offers.
 [2]:https://www.codewars.com/users/freeky92
 
 ![](res/5211129.png)
-
