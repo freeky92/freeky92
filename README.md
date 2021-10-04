@@ -7,8 +7,8 @@ Java developer.
 
 I'm currently studying hard Android Java / Kotlin & looking for job offers.
 
-📩   Contact me [ ![linkedin](res/linkedin.png)] [1].  
-⚔️Challenge me at [ ![codewars](res/codewars.png) ][2].
+📩   Contact me [ ![linkedin](res/linkedin.png) ][1]  
+⚔️Challenge me at [ ![codewars](res/codewars.png) ][2]
 
 ### I'm waiting for your offers.
 
