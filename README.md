@@ -1,5 +1,4 @@
-![AndroidBro](res/1608236.png)
-## ✨Hi, I'm Vladimir.
+## ✨Hi, I'm Vladimir. ![AndroidBro](res/1608236.png)
 ____
 
 #### Nice to see you on my page witch contains various projects and training content.
