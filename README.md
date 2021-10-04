@@ -14,5 +14,3 @@ I'm currently studying hard Android Java / Kotlin & looking for job offers.
 
 [1]:https://www.linkedin.com/in/vladimir-larichev-5a8ba2217/
 [2]:https://www.codewars.com/users/freeky92
-
-![](res/O3MM.gif)
