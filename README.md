@@ -4,8 +4,7 @@
 
 - 👨🏼‍💻 I wish to take part in an android project as a beginner in Android - Java developer.
 
-
-- 👨‍🎓 I'm currently studying hard Android Java / Kotlin & looking for job offers.
+- 👨‍🎓 I'm currently learn hard Android Java / Kotlin & looking for job offers.
 
 [ ![](res/linkedin.png)][1] [ ![](res/telegram.png) ][2] [ ![codewars](res/codewars.png) ][3]
 
