@@ -7,11 +7,9 @@
 
 - 👨‍🎓 I'm currently studying hard Android Java / Kotlin & looking for job offers.
 
-- 📩 Contact me:  
-[ ![](res/linkedin.png)][1] [ ![](res/telegram.png) ][2]
+- 📩 Contact me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ ![](res/linkedin.png)][1] [ ![](res/telegram.png) ][2]
 
-- ⚔️Challenge me at:  
-[ ![codewars](res/codewars.png) ][3]
+- ⚔️Challenge me at:[ ![codewars](res/codewars.png) ][3]
 
 #### I'm waiting for your offers.
 
