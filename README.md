@@ -3,7 +3,8 @@
 ### Nice to see you on my page, witch contains various projects and training content.
 
 I wish to take part in an android project as a beginner in Android -
-Java developer.  
+Java developer.
+
 I'm currently studying hard Android Java / Kotlin & looking for job offers.
 
 📩   Contact me [**Linkedin**](https://www.linkedin.com/in/vladimir-larichev-5a8ba2217/).  
