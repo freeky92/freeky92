@@ -1,6 +1,6 @@
 ## ✨Hi, I'm Vladimir. ![AndroidBro](res/1608236.png)
 
-### Nice to see you on my page, witch contains various projects and training content.
+#### Nice to see you on my page, witch contains various projects and training content.
 
 - 👨🏼‍💻 I wish to take part in an android project as a beginner in Android - Java developer.
 
