@@ -7,12 +7,14 @@
 
 - 👨‍🎓 I'm currently studying hard Android Java / Kotlin & looking for job offers.
 
-- 📩 Contact me ->  [ ![](res/LinkedIn_Logo_2013.svg.png) ][1]
+- 📩 Contact me:  
+[ ![](res/linkedin.png)][1] [ ![](res/telegram.png) ][2]
 
-- ⚔️Challenge me at ->  [ ![codewars](res/codewars.png) ][2]
+- ⚔️Challenge me at:  
+[ ![codewars](res/codewars.png) ][3]
 
 #### I'm waiting for your offers.
 
 [1]:https://www.linkedin.com/in/vladimir-larichev-5a8ba2217/
-
-[2]:https://www.codewars.com/users/freeky92
+[2]:https://t.me/freeky92
+[3]:https://www.codewars.com/users/freeky92
