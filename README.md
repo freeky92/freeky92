@@ -2,10 +2,10 @@
 
 ### Nice to see you on my page, witch contains various projects and training content.
 
-I wish to take part in an android project as a beginner in Android -
+👨🏼‍💻 I wish to take part in an android project as a beginner in Android -
 Java developer.
 
-I'm currently studying hard Android Java / Kotlin & looking for job offers.
+👨‍🎓 I'm currently studying hard Android Java / Kotlin & looking for job offers.
 
 📩   Contact me   [ ![](res/LinkedIn_Logo_2013.svg.png) ][1]  
 ⚔️Challenge me at   [ ![codewars](res/codewars.png) ][2]
