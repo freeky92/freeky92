@@ -6,8 +6,8 @@ I wish to take part in an android project as a beginner in Android -
 Java developer.  
 I'm currently studying hard Android Java / Kotlin & looking for job offers.
 
-📩   Contact me [Linkedin](https://www.linkedin.com/in/vladimir-larichev-5a8ba2217/).  
-⚔️Challenge me at [Codewars](https://www.codewars.com/users/freeky92).
+📩   Contact me [**Linkedin**](https://www.linkedin.com/in/vladimir-larichev-5a8ba2217/).  
+⚔️Challenge me at [**Codewars**](https://www.codewars.com/users/freeky92).
 
 
 ### I'm waiting for your offers.
