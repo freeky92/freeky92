@@ -11,5 +11,5 @@
 #### Looking for offers.
 
 [1]:https://www.linkedin.com/in/vladimir-larichev-5a8ba2217/
-[2]:https://t.me/freeky92
+[2]:https://t.me/vladimir1arichev
 [3]:https://www.codewars.com/users/freeky92
