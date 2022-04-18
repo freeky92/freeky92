@@ -6,8 +6,6 @@
 
 [ ![](res/linkedin.png)][1] [ ![](res/telegram.png) ][2] [ ![codewars](res/codewars.png) ][3]
 
-#### Looking for offers.
-
 [1]:https://www.linkedin.com/in/vladimir-larichev-5a8ba2217/
 [2]:https://t.me/vladimir1arichev
 [3]:https://www.codewars.com/users/freeky92
