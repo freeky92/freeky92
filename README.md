@@ -2,8 +2,6 @@
 
 #### Nice to see you on my page, which contains various projects and training content.
 
-- 👨🏼‍💻 I wish to take part in an android project.
-
 - 👨‍🎓 Constantly learning new Android features and tricks is an integral part of me).
 
 [ ![](res/linkedin.png)][1] [ ![](res/telegram.png) ][2] [ ![codewars](res/codewars.png) ][3]
