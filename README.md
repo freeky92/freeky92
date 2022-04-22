@@ -1,4 +1,4 @@
-## ✨Hi, I'm Vladimir. ![AndroidBro](res/1608236.png)
+## <img src="https://komarev.com/ghpvc/?username=freeky92&label=Profile%20views&color=blueviolet&style=flat-square" alt="freeky92" /> ✨Hi, I'm Vladimir. ![AndroidBro](res/1608236.png)
 
 #### Nice to see you on my page, which contains various projects and training content.
 
@@ -8,7 +8,7 @@
 #### I'm in touch:
 [ ![](res/linkedin.png)][1] [ ![](res/telegram.png) ][2] [ ![codewars](res/codewars.png) ][3]
 
-#### Github tech-stack & activity status
+#### Github activity status & tech-stack
 | <a href="https://github.com/freeky92?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com?user=freeky92&&date_format=j%20M%5B%20Y%5D&hide_border=true&fire=DD2727&ring=6B85DD&currStreakNum=000000" alt="2"/></a> |
   | ------------- |
   
