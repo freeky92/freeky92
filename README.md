@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freeky92&label=Profile%20views&color=0e75b6&style=flat" alt="kigya" /> </p>
+
 ## ✨Hi, I'm Vladimir. ![AndroidBro](res/1608236.png)
 
 #### Nice to see you on my page, which contains various projects and training content.
