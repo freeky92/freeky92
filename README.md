@@ -3,7 +3,7 @@
 #### Nice to see you on my page, which contains various projects and training content.
 
 - 👨‍🎓 Constantly learning new Android features and tricks is an integral part of me).
-- 💼 I take part in various projects.
+- 💼 Take part in various projects.
 
 #### I'm in touch:
 [ ![](res/linkedin.png)][1] [ ![](res/telegram.png) ][2] [ ![codewars](res/codewars.png) ][3]
