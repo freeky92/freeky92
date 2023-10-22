@@ -2,7 +2,7 @@
 
 #### Nice to see you on my page, which contains various projects and training content.
 
-- 👨‍🎓 Constantly learning new Android features and tricks is an integral part of me).
+- 👨‍🎓 Constantly learning and tricks is an integral part of me).
 - 💼 Take part in various projects.
 
 #### I'm in touch:
